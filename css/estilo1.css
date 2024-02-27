@@ -1,0 +1,33 @@
+*/*afecta a todo el documento*/
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 25px;
+    
+}
+/*afecta  a todo el cuerpo*/
+body
+{
+    background-color: orange;
+}
+h1
+{
+    border: 10px;
+    border-style: dotted;
+    color:darkcyan;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: overline;
+
+}
+
+p
+{
+    color: white;text-align: justify;  padding: 10px; border-radius: 20px; border-style: solid;
+    border-color: darkgray;
+
+}
+
+img
+{
+    width: 20%;
+}
